@@ -1,4 +1,4 @@
-package com.Main;
+package com.EmailNotifier;
 
 import jakarta.mail.Message.RecipientType;
 

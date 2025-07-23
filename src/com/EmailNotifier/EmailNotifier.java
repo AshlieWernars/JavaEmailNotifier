@@ -1,4 +1,4 @@
-package com.Main;
+package com.EmailNotifier;
 
 import java.util.ArrayList;
 import java.util.HashMap;
